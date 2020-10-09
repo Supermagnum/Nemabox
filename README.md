@@ -1,5 +1,6 @@
 # Nemabox
 A aluminium insert that fits 2x NEMA 23 steppers + worm gears.
+Those are very nice for a azimuth and elevation antenna rotor.
 
 It contains technical drawings for a sturdy aluminium insert that fits a Waterproof ABS box made by Fibox. 
 
