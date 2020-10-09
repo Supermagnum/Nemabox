@@ -20,7 +20,7 @@ https://www.freecadweb.org/
 
 -------------
 
-Note K3NG antenna rotor controller does not currently support stepper motors, 
+Note: K3NG antenna rotor controller does not currently support stepper motors, 
 but work on that issue is underway:
 
 https://github.com/k3ng/k3ng_rotator_controller/issues/77
