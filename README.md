@@ -1,6 +1,6 @@
 # Nemabox
 A aluminium insert that fits 2x NEMA 23 steppers + worm gears.
-Those are very nice for a azimuth and elevation antenna rotor.
+Those are very nice for a azimuth and elevation antenna rotor as no brakes are required.
 
 It contains technical drawings for a sturdy aluminium insert that fits a Waterproof ABS box made by Fibox. 
 
@@ -14,5 +14,15 @@ It has a space of 77mm x 170 x 218mm above the stepper motors that is usable for
 
 
 It also includes the Freecad file used to make the drawings. Freecad is free, and can be downloaded here:
+
 https://www.freecadweb.org/
+
+
+-------------
+
+Note K3NG antenna rotor controller does not currently support stepper motors, 
+but work on that issue is underway:
+
+https://github.com/k3ng/k3ng_rotator_controller/issues/77
+
 
