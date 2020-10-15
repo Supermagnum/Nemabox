@@ -2,6 +2,8 @@
 A aluminium insert that fits 2x NEMA 23 steppers + worm gears.
 Those are very nice for a azimuth and elevation antenna rotor as no brakes are required.
 
+The insert measures height 171,with 120 ,  depth 207 mm.
+
 It contains technical drawings for a sturdy aluminium insert that fits a Waterproof ABS box made by Fibox. 
 
 Its Product nbr: is 5330372 EAN: 6418074005540 http://www.fibox.com/catalog/135/product/862/5330372_ENG3.html
